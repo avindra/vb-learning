@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Backwards Maker", "Backwards Maker.vbproj", "{82CB0972-417C-4647-A6D1-D52D426E3EC1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{82CB0972-417C-4647-A6D1-D52D426E3EC1}.Debug.ActiveCfg = Debug|.NET
+		{82CB0972-417C-4647-A6D1-D52D426E3EC1}.Debug.Build.0 = Debug|.NET
+		{82CB0972-417C-4647-A6D1-D52D426E3EC1}.Release.ActiveCfg = Release|.NET
+		{82CB0972-417C-4647-A6D1-D52D426E3EC1}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
